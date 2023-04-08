@@ -21,3 +21,29 @@ O site foi criado baseado nos requisitos do cliente. Segue-os a seguinte :
 
 <p align="center">
 
+  [Link de acesso ao Github do projeto](https://github.com/DeskwarePI/API-VoMariaFelix)
+  
+  ### Tecnologias Utilizadas
+  <ul>
+   <li>Back-end - PHP / MySQL</li>
+   <li>Front-end - CSS / HTML / Javascript</li>
+   <li>Outros - Figma para criação do protótipo</li>
+ </ul>
+
+   
+   ### Contribuições pessoais
+   
+   Nesse meu primeiro projeto contribui apenas na documentação do projeto e criação do protótipo. 
+   Estava passando por um período de luto e não pude contribuir com nada mais. Acessando o link do projeto, pode ser que meu nome não esteja no grupo. Não compreenderam minha situação e me tiraram do grupo, pois queriam ver "resultados". A imaturidade do grupo foi maior que qualquer coisa.
+   
+   ## Hard Skills
+  <ul>
+   <li>HTML / CSS - sei fazer com consulta</li>
+   <li>Javascript - sei fazer com consulta</li>
+   <li>MySQL - sei fazer com consulta</li>
+  </ul>
+  
+   ## Soft Skills
+ 
+ Anteriormente a esse Projeto eu não tinha desenvolvido uma aplicação em conjunto na área da tecnologia. Foi um ótimo aprendizado trabalhar em conjunto, usando o método Scrum, que exige organização e planejamento e com o desafio de estarmos num método remoto.
+
