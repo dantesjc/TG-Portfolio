@@ -1,6 +1,8 @@
 <h2 align="center"> Dante Demétrius Pereira Silva </h2> 
 
- <img src="https://github.com/dantesjc/TG-Portifolio/blob/main/eu.jpg" width="220" /> 
+ <p align="center">
+ <img src="https://github.com/dantesjc/TG-Portifolio/blob/main/eu.jpg" width="220" />
+ </p>
     
 ### **Introdução** 
 
