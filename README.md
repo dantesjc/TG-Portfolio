@@ -10,7 +10,7 @@ Sou aluno de Análise e Desenvolvimento de Sistemas do 5° Semestre da Fatec - S
 
 ### **Meus Projetos** 
 
-**Em 2021-1**
+## Em 2021-1
 
 A proposta do projeto foi criar um Website para a Vó Maria Félix, ONG destinada para crianças na faixa etária de 0 a 7 anos, com intuito de facilitar o contato entre a instituição e seus participantes, voluntários, doadores e alunos. Como foi o primeiro projeto, não houve empresa parceira. Assim, os próprios professores fizeram o papel do cliente.
 O site foi criado baseado nos requisitos do cliente. Segue-os a seguinte :
