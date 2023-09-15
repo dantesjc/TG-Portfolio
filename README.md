@@ -6,7 +6,7 @@
     
 ### **Introdução** 
 
-Sou aluno de Análise e Desenvolvimento de Sistemas do 5° Semestre da Fatec - SJC. No mês de Fevereiro/2023 iniciei meu estágio como desenvolvedor Front-end na empresa Tecsus. Comecei o curso em 2021 com intuito de agregar meus conhecimentos e aplicar também em meu trabalho autônomo empresarial. <hr>
+Sou aluno de Análise e Desenvolvimento de Sistemas do 6° Semestre da Fatec - SJC. No mês de Fevereiro/2023 iniciei meu estágio como desenvolvedor Front-end na empresa Tecsus. Comecei o curso em 2021 com intuito de agregar meus conhecimentos e aplicar também em meu trabalho autônomo empresarial. <hr>
 
 ### **Meus Projetos** 
 
@@ -390,5 +390,5 @@ Implementação de LGPD - Termos de Privacidade e Recebimento de e-mail
  <li> Trabalho em equipe : Foi fundamental o trabalho em equipe bem estruturado e como estávamos mais experientes, tudo saiu de uma forma mais fluida. Apesar da mudança de integrantes da equipe, o API foi desenvolvido de forma eficaz.</li>
  <li>Entregas de Resultados: consegui me desenvolver para entregar as atividades de forma que fosse satisfatório para equipe e que atendessem aos requisitos do cliente</li><hr>
 
-
+## Em 2023-2 (6°Semestre)
 
