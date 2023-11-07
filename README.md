@@ -415,3 +415,25 @@ No sexto semestre, a empresa parceira foi a Pro4Tech. Uma empresa especializada 
 - ✅ Privacidade: Autenticação protegida e privada
 
 ## :flags: Backlog
+
+  
+  | Sprint |     Task   |  Importance |
+|:------:|:--------------------:|:-------------:|
+|    1   |    Data base CHA/ IA  | Very Important |
+|    1   |    Web Scraping | Very Important |
+|    1   |    Dashboard/ Vacancy tracking  | Important |
+|    1   |    Vacancy registration | Medium |
+|    2   |   Consume web scrapping on the front end  |  Important  |
+|    2   |    CRUD job openings |  Medium |
+|    2   |    Job description |  Medium  |
+|    2   |    User registration |  Low |
+|    3   |   Rank of candidates  | Important |
+|    3   |    Profile authentication (MFA)  | Medium |
+|    3   |    Description Enhancement | Medium | 
+|    3   |          Login                 | Medium |
+|    4   |   Profile Enhancement        | Low  |
+|    4   |    Notification via email      | Low  |
+|    4   |   Dashboard filter         | Low  |
+|    4   |   Customer validation     | Low  |
+
+
