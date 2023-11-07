@@ -392,3 +392,26 @@ Implementação de LGPD - Termos de Privacidade e Recebimento de e-mail
 
 ## Em 2023-2 (6°Semestre)
 
+No sexto semestre, a empresa parceira foi a Pro4Tech. Uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital.O objetivo do 6°API é criar uma aplicação web, voltada para o recrutamento de candidatos utilizando uma IA, baseado nos requisitos de uma vaga criada por uma empresa cadastrada no sistema. Devendo utilizar o CHA (Conhecimento, Habilidade e Atitudes) para filtrar os currículos, e ranqueando os candidatos de acordo com a adequação do perfil dos candidatos.
+
+## :dart: Escopo do Projeto
+
+### Requisitos Funcionais:
+- ✅ Cadastro e autenticação de perfil 
+- ✅ Cadastro e informações de empresas
+- ✅ Criar e detalhar cargo(s)
+- ✅ Iniciar processo de web scraping
+- ✅ Enviar e-mail à empresa quando estiver concluído
+- ✅ Ranquear os candidatos e exibi-los
+- ✅ Organizar e manter uma base de dados do CHA de diferentes cargos
+
+### Requisistos Não Funcionais
+- ✅ Documentação com o mapeamento das regras de negócio do cliente
+- ✅ Performance: Eficiência e ágil no tempo de resposta
+- ✅ Intuitividade: Design Friendly
+- ✅ Escalabilidade: Crescer em razão de demanda
+- ✅ Compatibilidade: Navegadores (diversos) e dispositivos móveis
+- ✅ Resiliência: Retomar scraping, caso ocorra interrupções
+- ✅ Privacidade: Autenticação protegida e privada
+
+## :flags: Backlog
