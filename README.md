@@ -456,5 +456,5 @@ No sexto semestre, a empresa parceira foi a Pro4Tech. Uma empresa especializada 
   
  ### Soft Skills
  
- <li> Trabalho em equipe : Foi fundamental nesse sexto semestre, a disciplina Gestão de Equipes. Foi fundamental para a equipe, e principalmente ao Scrum Master o aprendizado da parte do processo. Gerenciar a equipe, gerenciar o  backlog, interação com o cliente, e o principal , saber resolver problemas que envolve produçao da equipe, interação entre os membros da equipe, e adquirir aprendizado na parte de organização que envolve sprints, tarefas e prazos. .</li>
+ <li> Trabalho em equipe : Foi fundamental nesse sexto semestre, a disciplina Gestão de Equipes. Foi fundamental para a equipe, e principalmente ao Scrum Master o aprendizado da parte do processo. Gerenciar a equipe, gerenciar o  backlog, interação com o cliente, e o principal , saber resolver problemas que envolve produção da equipe, interação entre os membros da equipe, e adquirir aprendizado na parte de organização que envolve sprints, tarefas e prazos. .</li>
  <li>Entregas de Resultados: consegui me desenvolver para entregar as atividades de forma que fosse satisfatório para equipe e que atendessem aos requisitos do cliente</li><hr>
