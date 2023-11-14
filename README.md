@@ -437,3 +437,23 @@ No sexto semestre, a empresa parceira foi a Pro4Tech. Uma empresa especializada 
 |    4   |   Customer validation     | Low  |
 
 
+## 🖥️ Tecnologias Utilizadas
+
+- ✅  Tools: Figma, Visual Studio Code, Github.
+- ✅  Back-End Programming: Java Web Server-Side, Python, AI.
+- ✅  Front-End Programming: SPA/ Vue.js, SpringBoot.
+- ✅  Database: MariaDB.
+
+ ### Contribuições Pessoais
+ 
+ No sexto semestre, tive o papel de Scrum Master, criação do protótipo,criação da documentação do API. Minha colaboração com minha equipe foi principalemnte monitorar e auxiliar as ações do Product Owner (PO) e o Time de Desenvolvimento, garantindo que estes apliquem e executem os processos de acordo com o previsto na metodologia.Auxiliar o PO e o time a cumprir prazos de sprints, priorizar itens do Product Backlog e administrar todos os processos para que estes ocorram conforme devem.
+ 
+ ### Hard Skills
+ <li> HTML5 - Sei fazer com domínio e auxílio de consultas</li>
+ <li>CSS3 - Sei fazer com domínio e auxílio de consultas</li>
+ <li>Vue / SpringBoot - Sei fazer com auxília com consultas</li>
+  
+ ### Soft Skills
+ 
+ <li> Trabalho em equipe : Foi fundamental nesse sexto semestre, a disciplina Gestão de Equipes. Foi fundamental para a equipe, e principalmente ao Scrum Master o aprendizado da parte do processo. Gerenciar a equipe, gerenciar o  backlog, interação com o cliente, e o principal , saber resolver problemas que envolve produçao da equipe, interação entre os membros da equipe, e adquirir aprendizado na parte de organização que envolve sprints, tarefas e prazos. .</li>
+ <li>Entregas de Resultados: consegui me desenvolver para entregar as atividades de forma que fosse satisfatório para equipe e que atendessem aos requisitos do cliente</li><hr>
