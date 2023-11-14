@@ -449,9 +449,10 @@ No sexto semestre, a empresa parceira foi a Pro4Tech. Uma empresa especializada 
  No sexto semestre, tive o papel de Scrum Master, criação do protótipo,criação da documentação do API. Minha colaboração com minha equipe foi principalemnte monitorar e auxiliar as ações do Product Owner (PO) e o Time de Desenvolvimento, garantindo que estes apliquem e executem os processos de acordo com o previsto na metodologia.Auxiliar o PO e o time a cumprir prazos de sprints, priorizar itens do Product Backlog e administrar todos os processos para que estes ocorram conforme devem.
  
  ### Hard Skills
- <li> HTML5 - Sei fazer com domínio e auxílio de consultas</li>
- <li>CSS3 - Sei fazer com domínio e auxílio de consultas</li>
+ <li>SPA/ Vue.js, SpringBoot- Sei fazer com auxílio de consultas</li>
+ <li>Java Web Server-Side, Python - Sei fazer com auxílio de consultas</li>
  <li>Vue / SpringBoot - Sei fazer com auxília com consultas</li>
+  <li>MariaDB - Sei fazer com auxília com consultas</li>
   
  ### Soft Skills
  
